@@ -1,6 +1,6 @@
 include:
   - nginx
-  
+
 kibana:
   archive.extracted:
     - name: /opt/
